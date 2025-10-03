@@ -107,7 +107,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .envrc
 .venv
 .venvs
@@ -182,3 +181,4 @@ Chinook.db
 .turbo
 .editorconfig
 .scratch
+config.bat
